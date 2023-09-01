@@ -1,4 +1,5 @@
 ## Welcome to Sruthi's GitHub Page
+# Sruthi's First CS193 Homework
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -30,6 +31,10 @@ This is a new list:
 1. A
 2. B
 3. C
+
+- My CS193 TAs are super cool!
+- My friends are in my CS193 section
+- I'm looking forward to learning more about GitHub functions and Terminal features!
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
